@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Ahmed! 👋
 
-<!--
-**Ahmed7Saker/Ahmed7Saker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Ahmed Saker, a passionate software developer and open-source enthusiast.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I love coding and building innovative solutions.
+- 🌱 I'm currently learning advanced topics in software architecture and cloud computing.
+- 🚀 I'm always looking to collaborate on exciting projects and contribute to the open-source community.
+- 🎓 I have a strong background in computer science and several years of experience in software development.
+
+## Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+- **Programming Languages**: Python, JavaScript, TypeScript, Java, C++
+- **Web Development**: HTML, CSS, React, Node.js, Express
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **DevOps**: Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
+- **Cloud**: AWS, Azure, Google Cloud Platform
+- **Others**: Git, Linux, REST APIs, GraphQL
+
+## GitHub Stats
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed7Saker&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed7Saker&layout=compact&theme=radical)
+
+## Get in Touch
+
+- 📫 You can reach me via [email](ahmed.saker20191@gmail.com)
+- 💼 Connect with me on [LinkedIn](www.linkedin.com/in/ahmed-saker-198b83324)
+
+
+Looking forward to connecting and collaborating with you!
+
+---
+
+🔭 *“The only way to do great work is to love what you do.” – Steve Jobs*
+```` ▋
