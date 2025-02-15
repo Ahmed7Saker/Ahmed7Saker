@@ -13,12 +13,8 @@ Welcome to my GitHub profile! I'm Ahmed Saker, a passionate software developer a
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages**: Python, JavaScript, TypeScript, Java, C++
-- **Web Development**: HTML, CSS, React, Node.js, Express
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **DevOps**: Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
-- **Cloud**: AWS, Azure, Google Cloud Platform
-- **Others**: Git, Linux, REST APIs, GraphQL
+- **Programming Languages**: Python, Java, C++
+
 
 ## GitHub Stats
 
