@@ -2,16 +2,6 @@
 
 Welcome to my GitHub profile! I'm Ahmed Saker, a passionate software developer and open-source enthusiast.
 
-## About Me
-
-- 💻 I love coding and building innovative solutions.
-- 🌱 I'm currently learning advanced topics in software architecture and cloud computing.
-- 🚀 I'm always looking to collaborate on exciting projects and contribute to the open-source community.
-- 🎓 I have a strong background in computer science and several years of experience in software development.
-
-## Technologies & Tools
-
-Here are some of the technologies and tools I work with:
 
 - **Programming Languages**: Python, Java, C++
 
