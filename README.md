@@ -2,9 +2,7 @@
 
 Welcome to my GitHub profile! I'm Ahmed Saker, a passionate software developer and open-source enthusiast.
 
-
 - **Programming Languages**: Python, Java, C++
-
 
 ## GitHub Stats
 
@@ -13,13 +11,7 @@ Welcome to my GitHub profile! I'm Ahmed Saker, a passionate software developer a
 
 ## Get in Touch
 
-- 📫 You can reach me via [email](ahmed.saker20191@gmail.com)
-- 💼 Connect with me on [LinkedIn](www.linkedin.com/in/ahmed-saker-198b83324)
-
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email" />](mailto:ahmed.saker20191@gmail.com)&nbsp;&nbsp;
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn" />](https://www.linkedin.com/in/ahmed-saker-198b83324)
 
 Looking forward to connecting and collaborating with you!
-
----
-
-🔭 *“The only way to do great work is to love what you do.” – Steve Jobs*
-```` ▋
