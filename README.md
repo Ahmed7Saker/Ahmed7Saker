@@ -1,13 +1,20 @@
-# Hi there, I'm Ahmed! 👋
+# Hi there, I'm Ahmed! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Welcome to my GitHub profile! I'm Ahmed Saker, a passionate software developer and open-source enthusiast.
+ I'm Ahmed Saker, a biomedical student intersted in AI and software 
 
-- **Programming Languages**: Python, Java, C++
+### 🛠️ Technologies & Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</p>
 
-## GitHub Stats
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed7Saker&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed7Saker&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed7Saker&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed7Saker&layout=compact&theme=radical)
 
 ## Get in Touch
 
