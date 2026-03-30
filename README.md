@@ -149,9 +149,7 @@
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/ahmed7saker
-
-">
+  <a href="www.linkedin.com/in/ahmed7saker">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
