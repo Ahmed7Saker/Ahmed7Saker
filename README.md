@@ -149,7 +149,9 @@
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmed-saker-198b83324">
+  <a href="www.linkedin.com/in/ahmed7saker
+
+">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
@@ -157,7 +159,7 @@
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
- <a href="https://www.kaggle.com">
+ <a href="https://www.kaggle.com/ahmedddddsaker">
   <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" alt="Kaggle" />
 </a>
 </p>
